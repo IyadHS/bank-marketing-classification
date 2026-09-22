@@ -1,0 +1,31 @@
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Kaggle dataset files
+train.csv
+test.csv
+sample_submission.csv
+
+# Generated prediction files
+submission_*.csv
+test_predictions_*.csv
+
+# Saved machine-learning models
+*.joblib
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
